@@ -2,6 +2,7 @@
 
 A full-stack demo showcasing a clinician-focused monitoring experience built with **Next.js**, **Tailwind CSS**, **React Query**, and **shadcn/ui** on the frontend, backed by a **FastAPI** service with **PostgreSQL**, **SQLAlchemy**, and WebSocket support for real-time patient vitals and alerts.
 
+[![Video Preview](thumbnail.png)](Vid.mp4)
 
 
 
