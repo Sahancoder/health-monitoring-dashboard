@@ -1,7 +1,10 @@
 # Health Monitoring Dashboard
 
 A full-stack demo showcasing a clinician-focused monitoring experience built with **Next.js**, **Tailwind CSS**, **React Query**, and **shadcn/ui** on the frontend, backed by a **FastAPI** service with **PostgreSQL**, **SQLAlchemy**, and WebSocket support for real-time patient vitals and alerts.
-[![Watch the video](assets/demo.png)](https://github.com/Sahancoder/health-monitoring-dashboard/blob/5dfe165c6dfaba8a1b2b2f88c7e5fc8be8b6c821/Vid.mp4)
+
+
+
+
 
 ## Project Structure
 
